@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Born and raised in Tulsa, OK, I attended Edison Preparatory High School where I graduated as valedictorian in 2006. I have studied Physics for more than a decade now, and am working on my dissertation. I studied at the Princeton Plasma Physics Lab as a long-term visting student from 2013 to 2016. My research work consists of developing analytic reduced models of energetic ion interactions with tearing mode instabilities in tokamaks.
+<h1>Related links</h1>
+<ul>
+<a href="https://www.researchgate.net/profile/Michael_Halfmoon">Researchgate Profile</a>
+</ul>
