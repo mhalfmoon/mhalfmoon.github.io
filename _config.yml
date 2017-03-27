@@ -17,6 +17,5 @@ github_username:  mhalfmoon
 
 # Build settings
 markdown: kramdown
-gems:
-- jekyll-feed
+gems: jekyll-feed
 theme: jekyll-theme-midnight
