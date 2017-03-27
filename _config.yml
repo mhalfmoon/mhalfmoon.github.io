@@ -11,7 +11,7 @@ email: michael-halfmoon@utulsa.edu
 description: > # this means to ignore newlines until "baseurl:"
   The personal site of a plasma physicist and webdev hobbyist Michael Halfmoon.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.mhalfmoon.github.io/" # the base hostname & protocol for your site
+url: "https://mhalfmoon.github.io/" # the base hostname & protocol for your site
 twitter_username: mhalfmoon
 github_username:  mhalfmoon
 
